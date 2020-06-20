@@ -1,6 +1,5 @@
 ## User Authentication API 
-
-![api](https://user-images.githubusercontent.com/57854970/85190933-9716c080-b2ef-11ea-9ed1-60d9ad0719a6.JPG)
+![api](https://user-images.githubusercontent.com/57854970/85190980-c5949b80-b2ef-11ea-9f4d-649aa58a5cc2.JPG)
 
 
 ### Working with the repo 
