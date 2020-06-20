@@ -29,7 +29,7 @@ To test different request, we will be using Postman. Please download and install
 To Test POST and GET request you can go to this link:
 * **POST** For registration of users access the url `http://localhost:3000/api/user/register` and provide user details required such as name, email and password.
 
-<img src="https://drive.google.com/file/d/1yy-VazKg0yRM-2Mmh22U7AbvXYDpjeze/view?usp=sharing" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="2000" height="500" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/cszDGks" data-context="false" ><a href="//imgur.com/a/cszDGks"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
