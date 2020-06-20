@@ -1,1 +1,1 @@
-<h1> User Authentication API </h1>
+<h3> User Authentication API </h3>
