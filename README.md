@@ -1,5 +1,7 @@
 ## User Authentication API 
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/57854970/85190899-72224d80-b2ef-11ea-9257-1d7b443dea3d.gif)
+
 ### Working with the repo 
 This repositories contains the sample template for buidling RESTFul API for user Authentication using MongoDB, Express.Js and Node.Js. You can clone this repository to test inside your local machine and start using it on your own project.
 
