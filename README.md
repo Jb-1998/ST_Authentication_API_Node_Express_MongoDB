@@ -28,7 +28,7 @@ To test different request, we will be using Postman. Please download and install
 
 To Test POST and GET request you can go to this link:
 * **POST** For registration of users access the url `http://localhost:3000/api/user/register` and provide user details required such as name, email and password.
-<img src="https://media.giphy.com/media/KBaoMGPlkAxQU5UWZb/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="2000" height="100" />
+<img src="https://media.giphy.com/media/KBaoMGPlkAxQU5UWZb/giphy.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1000" height="500" />
 
 
 
