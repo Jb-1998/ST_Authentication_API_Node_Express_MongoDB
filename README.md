@@ -15,7 +15,7 @@ After you've installed all the necessary requirements, you can now install npm p
 
 Use `npm install` from your terminal to install all necessary node modules required for build process. This process needs to be repeated whenever any changes to `package.json` are made.
 
-On the root folder create a `.env` file and paste the following details below. This file allows you to have connect to database and provide also a token secret. The database is intended for testing only.
+On the root folder create a `.env` file and paste the following details below. This file allows you to connect to the database and provide also a token secret. The database is intended for testing only.
 
 * `DB_CONNECTION = mongodb+srv://testjb:sampletest@cluster0-tigkz.mongodb.net/Cluster0?retryWrites=true&w=majority`
 * `TOKEN_SECRET = ashdioasjdiajoidjaodoapj`
