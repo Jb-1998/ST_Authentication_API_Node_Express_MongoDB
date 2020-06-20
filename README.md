@@ -29,7 +29,7 @@ To test different request, we will be using Postman. Please download and install
 To Test POST and GET request you can go to this link:
 * **POST** For registration of users access the url `http://localhost:3000/api/user/register` and provide user details required such as name, email and password.
 
-![Alt Text](https://giphy.com/gifs/YrqOwMkv7ciYL7mLl1/html5)
+![Alt Text](https://media.giphy.com/media/YrqOwMkv7ciYL7mLl1/giphy.gif)
 
 
 
