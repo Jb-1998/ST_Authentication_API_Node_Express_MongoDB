@@ -1,5 +1,7 @@
 ## User Authentication API 
 
+![Alt Text](https://youtu.be/Hja-HaNVoDc)
+
 ### Working with the repo 
 This repositories contains the sample template for buidling RESTFul API for user Authentication using MongoDB, Express.Js and Node.Js. You can clone this repository to test inside your local machine and start using it on your own project.
 
