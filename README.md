@@ -15,6 +15,12 @@ After you've installed all the necessary requirements, you can now install npm p
 
 Use `npm install` from your terminal to install all necessary node modules required for build process. This process needs to be repeated whenever any changes to `package.json` are made.
 
+On the root folder create a `.env` file and paste the following details below. This file allows you to have connect to database and provide also a token secret. The database is intended for testing only.
+
+* `DB_CONNECTION = mongodb+srv://testjb:sampletest@cluster0-tigkz.mongodb.net/Cluster0?retryWrites=true&w=majority`
+* `TOKEN_SECRET = ashdioasjdiajoidjaodoapj`
+
+
 ### Available Scripts
 
 In the project directory, you can run:
@@ -28,9 +34,12 @@ To test different request, we will be using Postman. Please download and install
 
 To Test POST and GET request you can go to this link:
 * **POST** For registration of users access the url `http://localhost:3000/api/user/register` and provide user details required such as name, email and password.
+* **POST** For login of users access the url `http://localhost:3000/api/user/login` and provide user details required such as email and password.
 
+* **GET** Users can access to post url `http://localhost:3000/api/posts`, users that already login is given an access token wherein you can copy and paste it on the header section where you will add an **auth-token** key and paste the token as a value to that key. 
 
-![Alt Text](https://media.giphy.com/media/KBaoMGPlkAxQU5UWZb/giphy.gif)
+You can do several testing for authentication of login and registration as well as validation of different object inputs.
+
 
 
 
